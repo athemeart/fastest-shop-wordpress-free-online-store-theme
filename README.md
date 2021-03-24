@@ -64,6 +64,7 @@ Conclusion:
 Finally, it’s a free WordPress WooCommerce theme, comes to build a fancy online shop. It also has all the usable options to customize the theme like a pro without coding knowledge. And above all, it includes three demos. For example, the first one for Fashion Shops. The Second one for Beauty and Cosmetic Stores. And the last one for Wine Shops.
 
 == Frequently Asked Questions == 
+========================================
 
 1. How to bar info( email,phone,address ) ?
 	Please , navigate to wp-admin --> Appearance --> Customize --> Theme Options --> Top Bar,
@@ -78,12 +79,14 @@ Finally, it’s a free WordPress WooCommerce theme, comes to build a fancy onlin
 	You will Find all widgets with woocommerce and recommend plugins .
    	
 == Installation ==
+========================================
 	
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
 == Credits ==
+========================================
 
 Underscores:
 Author: 2012-2015 Automattic
@@ -124,6 +127,7 @@ License: GPL2
 
 
 == Image Used ==
+========================================
 
 https://pxhere.com/en/photo/723119
 
@@ -137,6 +141,7 @@ License:  Self created by athemeart.com
 
 
 == Screenshots ==
+========================================
 
 1. screenshot.png
 

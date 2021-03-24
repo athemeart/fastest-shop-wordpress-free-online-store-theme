@@ -62,3 +62,95 @@ It helps you translate the shop theme with POEditor or any translation editor.
 Conclusion:
 
 Finally, it’s a free WordPress WooCommerce theme, comes to build a fancy online shop. It also has all the usable options to customize the theme like a pro without coding knowledge. And above all, it includes three demos. For example, the first one for Fashion Shops. The Second one for Beauty and Cosmetic Stores. And the last one for Wine Shops.
+
+== Frequently Asked Questions == 
+
+1. How to bar info( email,phone,address ) ?
+	Please , navigate to wp-admin --> Appearance --> Customize --> Theme Options --> Top Bar,
+	
+2. How to add home page slider like as screenshot ?
+	We recommend to use smart slider 3 plugins for the home page slider/likes as screenshots hero sections. You can add via widgets 
+
+3. How to add product page like as screenshot ?
+	install the woocommerce plugins it's core layout of woocommerce.
+	
+4. How to sidebar like as screenshot ?
+	You will Find all widgets with woocommerce and recommend plugins .
+   	
+== Installation ==
+	
+1. In your admin panel, go to Appearance > Themes and click the Add New button.
+2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
+3. Click Activate to use your new theme right away.
+
+== Credits ==
+
+Underscores:
+Author: 2012-2015 Automattic
+Source: http://underscores.me
+License: GPLv2 or later
+
+Bootstrap:
+Source: https://github.com/twbs/bootstrap/tree/v4.0.0
+License: MIT License
+
+Customizer:
+Author: https://github.com/justintadlock
+Source: https://github.com/justintadlock/trt-customizer-pro
+License: GNU GPL
+
+Owl Carousel 2:
+Author: David Deutsch
+Source: https://github.com/OwlCarousel2/OwlCarousel2
+License: [MIT License.]
+
+Sticky sidebar :
+Author:  Anthony Garand    
+Source: https://github.com/garand/sticky
+License: MIT License
+
+Tgmpluginactivation:
+Source: http://tgmpluginactivation.com/
+License: GPL-2.0 or later license.
+
+icofont:
+Source: https://icofont.com/license
+License: MIT License.
+
+jquery.customSelect:
+Author:  Adam Coulombe    
+Source: http://adam.co/lab/jquery/customselect/
+License: GPL2
+
+
+== Image Used ==
+
+https://pxhere.com/en/photo/723119
+
+All are Licensed under CC0
+
+Name : WooCommerce demo data on screenshot 
+License:   GPLv3
+
+Name : screenshot.png logo, 404.png 
+License:  Self created by athemeart.com 
+
+
+== Screenshots ==
+
+1. screenshot.png
+
+== Upgrade Notice  ==
+
+= 1.0.3 =
+* auto generated  error fixed
+
+= 1.0.2 =
+* screenshot updated
+
+= 1.0.1 =
+* fixed issue of theme review team.
+
+= 1.0.0 =
+* initial released
+
